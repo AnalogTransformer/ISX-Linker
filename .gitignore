@@ -1,0 +1,71 @@
+# Claude AI Assistant Files
+CLAUDE.md
+.claude/
+*.claude
+
+# Python/MicroPython
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.mpy
+.micropython/
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+.cursorrules
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.Spotlight-V100
+.Trashes
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Documentation
+docs/_build/
+
+# Logs
+*.log
+logs/
+
+# MicroPython/CircuitPython specific
+.Trash-*/
+boot_out.txt
+.metadata_never_index
+.fseventsd/
+System Volume Information/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Temporary files
+*.tmp
+tmp/
+temp/

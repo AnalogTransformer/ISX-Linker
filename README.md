@@ -9,7 +9,6 @@ MicroPython-based hardware controller for interactive LED lighting systems. Inte
   - SparkFun Qwiic Button (I2C address: 0x6F)
   - NeoSlider with integrated NeoPixels (I2C address: 0x30)
 - **LED Driver**: TLC59711 12-channel 16-bit PWM LED driver
-- **Support Components**: I2C pull-up resistors (4.7kΩ typical, if not included on modules)
 
 ## Pin Connections
 

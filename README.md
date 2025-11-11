@@ -28,7 +28,8 @@ MicroPython-based hardware controller for interactive LED lighting systems. Inte
 ### LED Output from TLC59711
 - Channels R0-R3, G0-G3, B0-B3 support up to 12 LED channels
 - Each channel provides 16-bit PWM control (65,536 brightness levels)
-- Connect LED strips with appropriate current limiting resistors
+- Constant current driver - no external resistors needed
+- Connect LEDs directly to output channels
 
 ## Installation
 
